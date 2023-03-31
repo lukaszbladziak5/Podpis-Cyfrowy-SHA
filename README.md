@@ -1,3 +1,3 @@
 # Podpis-Cyfrowy-SHA
 
-Prosty program z interfejsem graficznym, który tworzy funkcję skrótu.
+Prosty program z interfejsem graficznym, który tworzy funkcję skrótu SHA.
